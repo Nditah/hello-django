@@ -246,16 +246,15 @@ urlpatterns = [
 
 ```
 
-Restart the App `python manage.py runserver` or refresh.
+Finally, restart the App `python manage.py runserver` or refresh.
 Review the App at http://127.0.0.1:8000/ and the out-of-the-box [Admin Panel](http://127.0.0.1:8000/admin)
-
-1. Commit and push your code to github.com and Deactivate the Virtual Env.
+Commit and push your code to github.com and Deactivate the Virtual Env.
    
     $ deactivate
     $ conda deactivate
 
 
-###
+### 📚 Sam's other blogs
 
-- 📚 Sam's other blogs: [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
+- [Dev.to](https://dev.to/nditah) | [Hashnode.dev](https://nditah.hashnode.dev/) | [Medium.com](https://nditah.medium.com/)
 - [Github](https://github.com/Nditah)
